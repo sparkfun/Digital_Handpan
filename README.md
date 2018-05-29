@@ -5,6 +5,11 @@ Digital_Handpan
 
 Code for the Digital Handpan - A project using capacitive touch on the Teensy in conjunction with the Teensy Audio Shield. 
 
+Repository Contents
+-------------------
+* **/V2** - V2 example code 
+* **/V1** - V1 example code 
+
 Documentation
 --------------
 
